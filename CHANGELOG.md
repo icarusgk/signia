@@ -1,3 +1,34 @@
+# v0.0.12 (Wed Mar 15 2023)
+
+#### 🐛 Bug Fix
+
+- `signia`
+  - make sure only one version of signia is loaded [#60](https://github.com/tldraw/signia/pull/60) ([@ds300](https://github.com/ds300))
+
+#### Authors: 1
+
+- David Sheldrick ([@ds300](https://github.com/ds300))
+
+---
+
+# v0.0.11 (Wed Mar 15 2023)
+
+#### 🐛 Bug Fix
+
+- `signia-react`
+  - [fix] add getSeverSnapshot to support next et al [#59](https://github.com/tldraw/signia/pull/59) ([@ds300](https://github.com/ds300))
+
+#### 📝 Documentation
+
+- Update what-are-signals.mdx [#57](https://github.com/tldraw/signia/pull/57) ([@icarusgk](https://github.com/icarusgk))
+
+#### Authors: 2
+
+- :Roger! ([@icarusgk](https://github.com/icarusgk))
+- David Sheldrick ([@ds300](https://github.com/ds300))
+
+---
+
 # v0.0.10 (Mon Mar 13 2023)
 
 #### 🐛 Bug Fix
